@@ -5,7 +5,7 @@
   <img src="./imagens/logo.png " alt="Figura 1" />
 </figure>
 
-A Netflix é uma empresa de produção e serviço de streaming por assinatura americana . Lançado em 29 de agosto de 1997, oferece uma biblioteca de filmes e séries de televisão por meio de acordos de distribuição , bem como produções próprias, conhecidas como Netflix Originals .
+A Netflix é uma empresa de produção e serviço de streaming por assinatura americana. Lançado em 29 de agosto de 1997, oferece uma biblioteca de filmes e séries de televisão por meio de acordos de distribuição, bem como produções próprias, conhecidas como Netflix Originals.
 
 Em 31 de dezembro de 2021, a Netflix tinha mais de 221,8 milhões de assinantes em todo o mundo, e com uma receita avaliada em 29.69 bilhões de dólares.
 
